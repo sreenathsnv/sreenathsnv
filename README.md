@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS and Django Frameworks**
 
-- 📫 How to reach me **sreenathsnvaltpb@gmail.com** **sreenath.me**
+- 📫 How to reach me **sreenathsnvaltpb@gmail.com** <a href="https://sreenath.me" target="blank">website</a>
 
 - ⚡ Fun fact **Actually I'm a noob in everything**
 
